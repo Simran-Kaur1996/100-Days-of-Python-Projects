@@ -1,2 +1,6 @@
-# 100-Days-of-Python-Projects
-This repository contains my journey of mastering Python by building 100 projects in 100 days.  The projects range from basic Python programs to data science, automation, web development, and game development.
+- 🐍 **Python Basics**: Functions, Loops, Conditionals, Data Structures, and OOP.
+- 🔢 **Data Science**: Pandas, NumPy, Matplotlib, and Machine Learning basics.
+- 🤖 **Automation**: Web scraping, File handling, API usage, and Task automation.
+- 🌐 **Web Development**: Flask, Django, FastAPI, and Web Scraping.
+- 🎮 **Games & Apps**: Simple 2D Games with Pygame, Tkinter Apps, and GUI projects.
+
